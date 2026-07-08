@@ -1,2 +1,20 @@
-p {color: blue; }
-body {background: grey; }
+p {color: orangered; }
+body {background: orange; }
+b {color: orchid;}
+i {color: greenyellow;}
+u {color: brown;}
+ul li{
+    color:aquamarine;
+}
+ol li{
+    color:pink;
+}
+/*Comentario para classes */
+.primeiro_item{
+    color:gray;
+}
+#ultimo_item{
+    color: paleturquoise;
+}
+/*Comentario para ids */
+
