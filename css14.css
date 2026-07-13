@@ -1,0 +1,47 @@
+
+#linha01{
+    background-color: pink;
+    width: 150px;
+    color: white;
+}
+#linha02{
+    
+    background-color: violet;
+    width: 150px;
+    color: white;
+}
+#linha03{
+    
+    background-color: blueviolet;
+    width:150px;
+    color: white;
+}
+#geral{
+    background-color:gold;
+    width:150px;
+
+}
+#geral #coluna01 {
+    background-color: red;
+    width: 33%;
+    height: 10%;
+    color:white; 
+    /*float: left;*/
+    clear: both;
+}
+#coluna02{
+    background-color: green;
+    width: 66%;
+    height: 10%;
+    color: white;
+    /*float: left;*/
+    clear: both;
+}
+#coluna03{
+    background-color: yellow;
+    width: 99%;
+    height: 10%;
+    color: white;
+    /*float: left;*/
+    clear:both;
+}
